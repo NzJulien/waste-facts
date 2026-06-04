@@ -1,0 +1,70 @@
+{
+  "categories": [
+    {
+      "id": "plastic",
+      "label": "Plastic",
+      "color": "#3B82F6",
+      "icon": "♻️",
+      "facts": [
+        "Plastic bottles take up to 450 years to decompose.",
+        "Only 9% of all plastic ever produced has been recycled.",
+        "Rinse plastic containers before recycling them."
+      ],
+      "examples": ["bottles", "bags", "straws", "containers"]
+    },
+    {
+      "id": "organic",
+      "label": "Organic",
+      "color": "#22C55E",
+      "icon": "🍃",
+      "facts": [
+        "Organic waste makes up about 50% of household trash.",
+        "Composting organic waste reduces methane emissions.",
+        "Food scraps and garden waste can become rich compost in 2–3 months."
+      ],
+      "examples": ["food scraps", "leaves", "fruit peels", "coffee grounds"]
+    },
+    {
+      "id": "paper",
+      "label": "Paper",
+      "color": "#F59E0B",
+      "icon": "📄",
+      "facts": [
+        "Recycling one ton of paper saves 17 trees.",
+        "Paper can be recycled up to 7 times before fibers break down.",
+        "Wet or greasy paper (like pizza boxes) cannot be recycled."
+      ],
+      "examples": ["newspapers", "cardboard", "notebooks", "envelopes"]
+    },
+    {
+      "id": "glass",
+      "label": "Glass",
+      "color": "#8B5CF6",
+      "icon": "🍶",
+      "facts": [
+        "Glass can be recycled indefinitely without losing quality.",
+        "Recycling glass saves 30% of the energy needed to make new glass.",
+        "Different colored glass (clear, green, brown) should be sorted separately."
+      ],
+      "examples": ["bottles", "jars", "drinking glasses"]
+    },
+    {
+      "id": "hazardous",
+      "label": "Hazardous",
+      "color": "#EF4444",
+      "icon": "☢️",
+      "facts": [
+        "Batteries contain toxic metals like mercury, lead, and cadmium.",
+        "Never throw electronics in regular trash — use e-waste drop-offs.",
+        "Used motor oil can contaminate millions of liters of groundwater."
+      ],
+      "examples": ["batteries", "paint", "electronics", "chemicals"]
+    }
+  ],
+  "meta": {
+    "source": "waste-facts dataset",
+    "version": "1.0.0",
+    "language": "en",
+    "last_updated": "2026-06-04"
+  }
+}
