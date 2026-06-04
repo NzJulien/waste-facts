@@ -1,0 +1,8 @@
+{
+  "name": "waste-facts",
+  "version": "1.0.0",
+  "description": "A small JSON dataset of waste sorting facts for educational use",
+  "main": "index.js",
+  "author": "NzJulien",
+  "license": "MIT"
+}
